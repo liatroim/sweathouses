@@ -1,2 +1,1 @@
-# sweathouses
-Leitrim Sweathouse Project (2021)
+# Leitrim Sweathouses project Webmap
